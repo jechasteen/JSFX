@@ -1,5 +1,5 @@
 # JSFX
-## JSFX_Reference.pdf
+## ReaperJSFX_Reference.pdf
     This is an all-in-one pdf of the JSFX reference located at <https://www.reaper.fm/sdk/js/js.php>
     I have rearranged the chapters compared to the website, corrected errors and added formatting and indexing.
 ## ReaperJSFX_Reference.ly

@@ -8,6 +8,7 @@
 ## JSFX Source code
     Effects that are in parentheses are planned.
     
-### downsampler.jsfx
+### bitschanger.jsfx
+User specifies the bits, then we take each sample and bind it to one of 1/bits steps  
 
 Disclaimer: I am not in any way affiliated with REAPER or Cockos Inc. The existence of these documents does not imply endorsement.
